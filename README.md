@@ -9,17 +9,17 @@ Define Software Engineering:
 ANSWER : 
 This is the applications of engineering principle, methodologies, method and tools in designing and develop a high quality software system.
 What is software engineering, and how does it differ from traditional programming?
-  ANSWER :
-   Softeare Engineering is very different from tradistional programng from the initial up to the result, software engineering it follow the engineering principle and displine, engineering code of conduct, Method and methodologies user from the requirment gathering up to the deployment. also it is very easy to track the code error in engineering work than in traditional work that makes it to be untrusted...Example operarting system such as window ,it is is to trust it because of engineering work.                                                                    
+ANSWER :
+Softeare Engineering is very different from tradistional programng from the initial up to the result, software engineering it follow the engineering principle and displine, engineering code of conduct, Method and methodologies user from the requirment gathering up to the deployment. also it is very easy to track the code error in engineering work than in traditional work that makes it to be untrusted...Example operarting system such as window ,it is is to trust it because of engineering work.                                                                    
 Software Development Life Cycle (SDLC):
- ANSWER :
-  SDLC this is the repeated cycle of software development process where by developer follow it during the designing of software system and it actually start from requirment gathering up to the deployment of the stytem.                                                                                                                                            
+ANSWER :
+SDLC this is the repeated cycle of software development process where by developer follow it during the designing of software system and it actually start from requirment gathering up to the deployment of the stytem.                                                                                                                                            
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. 
 Answer:
 Various phase of software development life cycle, this invole the initial stage of software devolopment up to the final stage of developmnet . it involve the following                                                                
-- Requirement gathering- this involve the collection of maretial that can be used during the development also what user or customer needs ( Most important, End user expectations result). ..also                                                                     
-- System designing- This involve the architecture and the whole outlook of the system, it can be only in documented ( engineering despline), or trandictional way that is only designed and stored in the brain.. also                                                                      
-- Implemenations- This involve the transformations of documented architecture or designed system to the real word. this is what the world can see and gudge on . where if it the software system start to looks like a system ....also                                                                       
+- Requirement gathering- this involve the collection of maretial that can be used during the development also what user or customer needs ( Most important, End user expectations result). ..                                                                     
+- System designing- This involve the architecture and the whole outlook of the system, it can be only in documented ( engineering despline), or trandictional way that is only designed and stored in the brain..                                                                       
+- Implemenations- This involve the transformations of documented architecture or designed system to the real word. this is what the world can see and gudge on . where if it the software system start to looks like a system ....                                                                       
 - Testing- in this stage of SDLC involve both side the end user and developer whwre by develeper test a system according top the limit also end user ( cliant) test a system according to the expectations.
 - Deployment-  In this stage is where the developer release the work to the cliants ready for use. developed system is finished and customer satisfy with the work of developer.
 - maintenace - this is the last stage where developer pass though the system to chek if there is an error or any problem as preventive maintanance. it is like a checkup of the system.
